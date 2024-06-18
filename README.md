@@ -11,3 +11,4 @@ Dask Developers. “DASK Tutorial Documentation.” DASK. 2018. https://tutorial
 Sowmya.L.R. “Introduction to Dask in Python.” GeeksforGeeks. 10 July 2020. https://www.geeksforgeeks.org/introduction-to-dask-in-python/.  
 GeeksforGeeks. “Semaphores in Process Synchronization.” GeeksforGeeks. 22 Nov. 2021. https://www.geeksforgeeks.org/semaphores-in-process-synchronization/.  
 OmniSci. “Parallel Computing Definition.” OmniSci. 2021. https://www.omnisci.com/technical-glossary/parallel-computing.  
+Gossett, Stephen. “9 Parallel Processing Examples & Applications.” Built In. 22 Jan. 2020. https://builtin.com/hardware/parallel-processing-example.
