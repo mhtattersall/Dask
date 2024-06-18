@@ -1,5 +1,6 @@
 # Dask
 
+- The Word document contains notes on Dask from the MIT xPro Data Engineering Certificate.
 - The ipyhton files are Dask tutorials.  The sample dataset belongs to Dask.ipynb.  
 - write.py is a program that writes sytnthetic time series files in parallel.  
 - read.py is a program that reads csv files in parallel and stores them in a dask dataframe.
