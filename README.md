@@ -1,6 +1,6 @@
 # Dask
 
-- ipython files are Dask tutorials. The sample dataset belongs to Dask.ipynb.   
+- ipython files are Dask tutorials. The dataset.csv belongs to Dask.ipynb and salary.csv belongs to Assignment22.1.ipynb.   
 - write.py is a program that writes sytnthetic time series files in parallel.  
 - read.py is a program that reads csv files in parallel and stores them in a dask dataframe.
 - activity.py file defines a pandas dataframe, then writes the contents to files in parallel by using the DASK library.
